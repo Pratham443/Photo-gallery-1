@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+.gridimg {
+    height: 250px;
+    width: 250px;
+}
+
+.slideimg {
+    height 300px;
+    width: 150px;
+}
+
+#myCarousel {
+    background-color: blue;
+}
+
+#myCarousel p {
+    font-size: 20px;
+    color: white;
+}
